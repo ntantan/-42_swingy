@@ -1,1 +1,12 @@
-com/ntan/swingy/App.class
+com/ntan/swingy/models/hero/Weapon.class
+com/ntan/swingy/models/map/Cell.class
+com/ntan/swingy/models/hero/Hero.class
+com/ntan/swingy/models/map/Map.class
+com/ntan/swingy/models/db/SQLiteJDBC.class
+com/ntan/swingy/Main.class
+com/ntan/swingy/controllers/actions/Move.class
+com/ntan/swingy/models/hero/Armor.class
+com/ntan/swingy/models/hero/Helm.class
+com/ntan/swingy/models/map/Coordinate.class
+com/ntan/swingy/controllers/actions/Fight.class
+com/ntan/swingy/models/vilains/Vilain.class

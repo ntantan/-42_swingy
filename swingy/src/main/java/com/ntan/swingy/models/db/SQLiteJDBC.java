@@ -2,13 +2,13 @@ package com.ntan.swingy.models.db;
 import java.sql.*;
 
 public class SQLiteJDBC {
-    public static void main( String args[] ) {
+    public static void main() {
         Connection c = null;
         Statement stmt = null;
         
         try {
             Class.forName("org.sqlite.JDBC");
-            c = DriverManager.getConnection("jdbc:sqlite:swingy/src/main/java/com/ntan/swingy/db/db.sqlite");
+            c = DriverManager.getConnection("jdbc:sqlite:swingy/src/main/java/com/ntan/swingy/models/db/db.sqlite");
             System.out.println("Opened database successfully");
 
             stmt = c.createStatement();

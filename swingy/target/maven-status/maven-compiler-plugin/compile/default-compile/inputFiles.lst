@@ -1,1 +1,12 @@
-/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/App.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/controllers/actions/Fight.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/map/Coordinate.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/db/SQLiteJDBC.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/Main.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/hero/Hero.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/hero/Weapon.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/map/Cell.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/hero/Armor.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/map/Map.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/vilains/Vilain.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/controllers/actions/Move.java
+/home/ntan/projects/ft_swingy/swingy/src/main/java/com/ntan/swingy/models/hero/Helm.java
